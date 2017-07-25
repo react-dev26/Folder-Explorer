@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Sandbox from './Sandbox';
+import App from './App';
 ReactDOM.render(
-  <Sandbox />,
+  <App />,
 	document.getElementById('root')
 );
