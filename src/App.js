@@ -96,7 +96,7 @@ export default class Sandbox extends Component {
 
 	render() {
 		return (
-			<div style={{padding: '50px 20px'}}>
+			<div style={{padding: '50px 20px', width: '50%'}}>
 			  <FolderTree
 			  	data={this.state.testData}
 			    fileComponent={FileComponent}
