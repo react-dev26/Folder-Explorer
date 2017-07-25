@@ -13,12 +13,12 @@ This README would normally document whatever steps are necessary to get your app
 
 	1. Install dependencies:
 	  ```
-	  npm install
+	  yarn
 	  ```
 
 	2. Run the development server:
 	  ```
-	  npm start
+	  yarn start
 	  ```
 
 	3. Connect to http://localhost:3000
